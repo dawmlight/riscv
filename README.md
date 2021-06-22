@@ -1,4 +1,4 @@
-# OH-OpenBlock-SIG
+# OH-RISC-V-SIG
 
 # 介绍
 RISC-V SIG 组旨在构建围绕OpenHarmony的软硬件生态，提供RISC-V的软件包和系统构建等指导，并维护对RISC-V设备的支持，使能RISC-V场景下的应用、安全等能力。 
