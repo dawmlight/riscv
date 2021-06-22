@@ -1,39 +1,39 @@
-# riscv
+# OH-OpenBlock-SIG
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+# 介绍
+RISC-V SIG 组旨在构建围绕OpenHarmony的软硬件生态，提供RISC-V的软件包和系统构建等指导，并维护对RISC-V设备的支持，使能RISC-V场景下的应用、安全等能力。 
 
-#### 软件架构
-软件架构说明
+RISC-V SIG将推动对 RISC-V OpenHarmony感兴趣的开发者能够参与到开源系统开发中活动中来。
 
+# 工作目标和范围
+ * 为OpenHarmony维护RISC-V发行版
 
-#### 安装教程
+   SIG将维护OpenHarmony的RISC-V发行版，建设RISC-V适配软件包源
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+ * OpenHarmony在RISC-V体系结构和设备的适配
 
-#### 使用说明
+   SIG将不断更新（移植）和维护OpenHarmony能够支持的RISC-V设备。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+ * RISC-V 安全能力
 
-#### 参与贡献
+   SIG将结合蓬莱RISC-V TEE使能OpenHarmony在RISC-V场景下的安全能力。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+* 生态扩展
 
+​       积极与开发者、高校和相关客户合作，推动OpenHarmony在RISC-V环境下的应用生态建设
 
-#### 特技
+# 组织会议
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+* 目前视任务进度情况决定开会时间
+* 通过邮件申报议题(邮件列表暂未完善，请先发送至jiageng08@iscas.ac.cn)
+
+# 成员
+
+## Maintainer列表
+
+* jiageng08@iscas.ac.cn
+
+联系方式
+
+* 邮件列表: 暂无
+
