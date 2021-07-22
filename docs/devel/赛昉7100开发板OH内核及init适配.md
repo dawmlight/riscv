@@ -3,6 +3,7 @@
 ## 运行init验证系统搭建流程
 
 1.  赛昉7100开发板编译环境搭建
+
     完成以下步骤：[参考链接](https://wiki.seeedstudio.com/BeagleV-Make-File-System-Compile-uboot-Kernal/#compile-linux-kernel) 
     
     - 设置编译环境
@@ -11,10 +12,13 @@
     - 烧录uboot
     - 编译Linux Kernel，得到Image.gz
 
-2.  aosp-riscv环境搭建 
-    [参考链接](https://github.com/T-head-Semi/aosp-riscv) 注意：推荐Ubuntu环境下编译，可用硬盘大小至少200G
+2.  aosp-riscv环境搭建
+
+    [参考链接](https://github.com/T-head-Semi/aosp-riscv)
+    注意：推荐Ubuntu环境下编译，可用硬盘大小至少200G
 
 3.  构建文件系统
+
     手动构建aosp-riscv rootfs
     ```
     cd aosp/out/target/product/generic_riscv64/
@@ -33,6 +37,7 @@
     ```
 
 4.  将rootfs，kernel，uboot烧写至7100开发板，启动init
+
     [参考链接](https://wiki.seeedstudio.com/BeagleV-Make-File-System-Compile-uboot-Kernal/#compile-linux-kernel) 完成步骤：Move rootfs, kernel and uboot into BeagleV™ - Starlight
 
 ## 问题及解决
